@@ -53,6 +53,7 @@
 </div>
 
 ###
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ![snake gif](https://github.com/Tanmay-bhosale/Tanmay-bhosale/blob/output/github-snake-dark.svg)
 
